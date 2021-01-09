@@ -1,4 +1,5 @@
 # Hikari
+### Tetris AI made with Unity
 
 https://gitlab.com/SoRA_X7/hikari
 
